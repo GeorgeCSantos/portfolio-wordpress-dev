@@ -16,7 +16,9 @@ Sou **Desenvolvedor Front-End**, com experiência em HTML, CSS, JavaScript e PHP
 ## 📂 Estrutura do projeto
 
 index.html ← Página principal do site
+
 enviar_email.php ← Formulário de contato funcional
+
 assets/ ← Pasta com imagens, CSS e scripts
 
 ---
